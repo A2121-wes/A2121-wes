@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mikkai
 - 👀 I’m interested in machine learning, AI, and competitive programming
-- 🌱 I’m currently learning Intro to Python
-- 💞️ I’m looking to collaborate on Python
+- 🌱 I’m currently learning Intro to Java
+- 💞️ I’m looking to collaborate on Java
 - 📫 How to reach me ...
 
 <!---
